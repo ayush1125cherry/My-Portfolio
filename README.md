@@ -2,7 +2,6 @@
 Hey everyone, this is my project on a portfolio website which I've created in the  competition organized by AI - WebForge Amity Schools of Engineering and Technology, Amity Noida, where we have to submit our project in a single day.
 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d2edd120-e59d-4976-a18f-053908cef99b" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f152233b-d8d8-4244-ab9e-6839efd68fe7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a465b1a4-9774-4313-a601-fdd366e0dc15" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a3759e2-7d54-4dcd-8f6e-5e20a0cc8646" />
